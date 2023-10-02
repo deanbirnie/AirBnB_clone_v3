@@ -4,3 +4,6 @@
 # ignore byte compiled files
 __pycache__/
 *.byc
+
+# ignore json file for storage
+file.json
